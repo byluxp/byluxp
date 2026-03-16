@@ -9,30 +9,23 @@ Utilizando da tecnologia como aliada.
 
 ---
 
-## 🔍 Em exploração
+## 🔍 Aprendendo, aprendendo...
 
-Assuntos que ainda estou estudando, testando e entendendo melhor:
-
-- Como sistemas se comunicam  
-- Pontos de falha e vulnerabilidades comuns  
-- Automação simples como meio, não como produto  
-- Boas práticas de segurança aplicadas à tecnologia
+Busco aprimorar nos seguintes:
+- Comunicação entre sistemas.
+- Integração entre SST e tecnologia.
+- Melhoria de processos através de automatização.
 - Python, SQL e um pouco de HTML pelo hobbie.
 
 ---
 
-## 🛠️ O que você vai encontrar neste GitHub
+## 🛠️ E para que esse perfil?
 
 - Repositórios de estudo  
 - Experimentos e testes  
 - Anotações técnicas  
-- Projetos pequenos e iterativos
-- Projetos para pessoas românticas. (Sou uma pessoa apaixonada)
+- Projetos pequenos e iterativos para pessoas românticas. (Sou uma pessoa apaixonada)
 
 ---
 
-## 🤝 Conexão
-
-Este perfil existe para trocas.
-Se você também está aprendendo, explorando ou entendendo tecnologia no processo,  
-a conversa já faz sentido.
+## Se você também está aprendendo ou explorando, venha me fazer companhia!
