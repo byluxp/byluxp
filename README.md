@@ -4,8 +4,8 @@
 
 Sou uma profissional da área de **segurança do trabalho**, explorando tecnologia de forma prática,  
 com foco em aprendizado contínuo e entendimento de sistemas.
-Minha forma de pensar vem da área de segurança: análise de risco, prevenção,  
-processo e atenção a falhas. Utilizando da tecnologia como aliada.
+Minha forma de pensar vem da área de segurança: análise de risco, prevenção, processo e atenção a falhas. 
+Utilizando da tecnologia como aliada.
 
 ---
 
