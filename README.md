@@ -14,17 +14,24 @@ Busco aprimorar nos seguintes:
 - Comunicação entre sistemas.
 - Integração entre SST e tecnologia.
 - Melhoria de processos através de automatização.
-- Python, SQL e um pouco de HTML pelo hobbie.
+- Python, SQL, Power BI, e um pouco de Front-end pelo hobbie.
 
-<h3> 🤓 O que já sei: </h3>   
+<h3> Loading 💻 (10% 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ ): </h3>   
 
-  - Modelagem conceitual de banco de dados (ADORO diagramas. Bota na minha mão que a mãe amassa.)  
-  - Data analysis (Desde que me entendo por gente gráfico, diagrama, fluxograma são uma trindade santa)  
-  - HTML e CSS (Quem sabe um front-end vem aí).  
-  - Integração entre tabelas (Excel aqui é como um membro da família - SQL é o recém nascido que cuido com carinho)
-  - Python básico
-  - Cloud (AWS e Azure)
-  - LGPD e Compliance (Profissional de segurança tem que entender muito de lei)
+**Front-end**  <!--Badges são do img shields.io, só procurar lá-->  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
+**Outros**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
+
+
 
 <h3> 🤷‍♀️ Objetivo desse perfil: </h3>
 
