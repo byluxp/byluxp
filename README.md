@@ -24,13 +24,15 @@ Busco aprimorar nos seguintes:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 
+**Dados**  
+![PowerBI](https://img.shields.io/badge/Power_BI-Power_BI_Data_Analyst_Associate-FEB800) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+
 **Outros**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
-
 
 
 <h3> 🤷‍♀️ Objetivo desse perfil: </h3>
