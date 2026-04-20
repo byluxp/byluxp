@@ -16,7 +16,7 @@ Busco aprimorar nos seguintes:
 - Melhoria de processos através de automatização.
 - Python, SQL, Power BI, e um pouco de Front-end pelo hobbie.
 
-<h3> Loading 💻 (10% 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ ): </h3>   
+<h3> Loading 💻 (40% 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ ): </h3>   
 
 **Front-end**  <!--Badges são do img shields.io, só procurar lá-->  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
