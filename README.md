@@ -14,15 +14,23 @@ Busco aprimorar nos seguintes:
 - Comunicação entre sistemas.
 - Integração entre SST e tecnologia.
 - Melhoria de processos através de automatização.
-- Python, SQL, Power BI, e um pouco de Front-end pelo hobbie.
+- Otimização do tempo de execução de tarefas e análise críica das atividades.
+- Desenvolvimento fullstack
 
 <h3> Loading 💻 (40% 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ ): </h3>   
+
+### Tecnologias utilizadas
 
 **Front-end**  <!--Badges são do img shields.io, só procurar lá-->  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Php](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Php](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+
+**Back-end**  
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
 
 
 **Dados**  
@@ -31,9 +39,9 @@ Busco aprimorar nos seguintes:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 **Outros**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
+![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux) 
+![Json](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff&style=plastic)
 
 
 <h3> 🤷‍♀️ Objetivo desse perfil: </h3>
@@ -41,7 +49,7 @@ Busco aprimorar nos seguintes:
 - Repositórios de estudo  
 - Experimentos e testes  
 - Anotações técnicas  
-- Projetos pequenos e iterativos para pessoas românticas. (Sou uma pessoa apaixonada)
+- Projetos
 - Atividades da faculdade
 
 **O perfil está em atualização, podendo não conter todas as informações / resumos e projetos feitos ainda**
