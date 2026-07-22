@@ -14,7 +14,7 @@
 
 > **"Transformando riscos em processos e dados em decisões estratégicas."**
 
-Sou graduanda no **3º semestre de Análise e Desenvolvimento de Sistemas** com bagagem sólida na área de **Segurança do Trabalho** — o que me deu uma visão única para **análise de risco, atenção a falhas, prevenção e regras de negócio complexas**. 
+Sou graduanda no **3º semestre de Análise e Desenvolvimento de Sistemas** com bagagem sólida na área de **Segurança do Trabalho**, o que me deu uma visão única para **análise de risco, atenção a falhas, prevenção e regras de negócio complexas**. 
 
 Hoje, aplico esse mindset analítico no ecossistema de **Tecnologia, Análise de Dados e Inteligência Artificial**, criando soluções que otimizam tempo e automatizam processos repetitivos.
 
