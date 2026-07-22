@@ -85,9 +85,9 @@ graph LR
 Acesse abaixo os principais repositórios de análise de dados e projetos desenvolvidos:
 
 | Repositório | Descrição | Link do Projeto |
-| :--- | :--- | :---: |
-| 📊 **Análise de Datasets 1** | Pipeline de Machine Learning e Detecção de Fraudes em cartões com Python. | [<img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=for-the-badge&logo=github&logoColor=00F0FF"/>](https://github.com/byluxp/projeto-analise-datasets) |
+| :--- | :--- | :---: |  
 | 🏴‍☠️ **Análise One Piece** | Tratamento de dados, métricas de avaliação e geração de dashboards em Python. | [<img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=for-the-badge&logo=github&logoColor=00F0FF"/>](https://github.com/byluxp/projeto-data-analysis-one-piece) |
+| 📊 **Análise de Datasets 1** | Pipeline de Machine Learning e Detecção de Fraudes em cartões com Python. | [<img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=for-the-badge&logo=github&logoColor=00F0FF"/>](https://github.com/byluxp/projeto-analise-datasets) |
 | 📈 **Agentes de IA** | Experimento prático na criação de um agente de IA financeiro que fornece dicas e orientações de finanças. | [<img src="https://img.shields.io/badge/GitHub-Repo-8A2BE2?style=for-the-badge&logo=github&logoColor=00F0FF"/>](https://github.com/byluxp/dio-lab-bia-do-futuro) |
 
 ---
