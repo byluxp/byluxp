@@ -3,7 +3,7 @@
 # LUCILA VITÓRIA
 ### **Data Analyst | AI & Automation Enthusiast | Tech Explorer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=An%C3%A1lise+de+Dados+%2B+Intelig%C3%AAncia+Artificial;Automating+Processes+with+Python;Transformando+Dados+brutos+em+Insights)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=An%C3%A1lise+de+Dados+%2B+Intelig%C3%AAncia+Artificial;Automatizando+Processos+com+Python;Orquestrando+Agentes+de+IA)](https://git.io/typing-svg)
 
 ---
 </div>
