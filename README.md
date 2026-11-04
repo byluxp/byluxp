@@ -2,7 +2,7 @@
 
 # LUCILA VITÓRIA
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Construo+ferramentas+com+IA;que+tiram+trabalho+manual+de+quem+est%C3%A1+no+campo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&lines=Construo+ferramentas+com+IA;Automa%C3%A7%C3%A3o+para+qualquer+setor.)](https://git.io/typing-svg)
 
 Estudante de Análise e Desenvolvimento de Sistemas · 7 anos em EHS na indústria e na mineração · Belo Horizonte, MG
 
