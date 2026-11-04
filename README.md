@@ -76,7 +76,7 @@ O que eu trago de diferente é conhecer o problema por dentro. Antes de escrever
 
 | Projeto | O que eu fiz |
 | :--- | :--- |
-| 🤖 [Bot Tech Girls](https://github.com/byluxp/discord-bot-tech-girls) | **Contribuição** num projeto da comunidade Tech Girls. Minha parte foi a **integração de IA**: o agente que lê a notícia, decide se é relevante, resume em 3 linhas e devolve JSON validado para o Discord. |
+| 🤖 [Bot Tech Girls](https://github.com/byluxp/discord-bot-tech-girls) | **Contribuição** num bot de Discord da comunidade Tech Girls. Minha parte:<br>• **Automação com IA:** o agente que lê a notícia, decide se é relevante, resume em 3 linhas e devolve **JSON validado** para o Discord.<br>• **Busca de vagas com a API JSearch:** configurei e ativei a busca, que confere cada vaga no link antes de postar com função, empresa e descrição, dentro da cota gratuita.<br>• **Documentação de testes:** 34 testes com `pytest` e avaliação de modelos de IA com notícias reais, medidos antes e depois de cada mudança (ex.: 15 de 18 acertos com o modelo novo). |
 | 📈 [BIA, agente financeiro](https://github.com/byluxp/dio-lab-bia-do-futuro) | Desafio da DIO: agente com Gemini e Streamlit que responde com base numa base de conhecimento, com regras contra alucinação. |
 
 ---
